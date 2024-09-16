@@ -1,6 +1,6 @@
 # 💻 Sobre mí
 
-¡Hola! Soy Javier **Backend Developer**. 
+¡Hola! Soy Javier,**Backend Developer**. 
 
 Me enfoco principalmente en el uso de **Java** y tecnologías relacionadas para crear soluciones eficientes y sostenibles.
 
