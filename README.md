@@ -20,6 +20,9 @@ Me enfoco principalmente en el uso de **Java** y tecnologías relacionadas para 
 
 
 ---
+## Oracle certified professional java se 17 
+(https://catalog-education.oracle.com/pls/certview/sharebadge?id=B47342E6A4F1952C891D01C896F323164F870EFCCD79837AA1A0F70699FDE30B)
+
 
 ## 🚀 Mis Proyectos
 
