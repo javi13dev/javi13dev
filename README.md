@@ -1,6 +1,6 @@
 # 💻 Sobre mí
 
-¡Hola! Soy Javier,**Backend Developer**. 
+¡Hola! Soy Javier, **backend Developer**. 
 
 Me enfoco principalmente en el uso de **Java** y tecnologías relacionadas para crear soluciones eficientes y sostenibles.
 
@@ -8,14 +8,20 @@ Me enfoco principalmente en el uso de **Java** y tecnologías relacionadas para 
 
 ## 🔧 Tecnologías y herramientas
 
-- **Lenguajes de programación**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-- **Frameworks**:  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+- **Lenguajes de programación**:
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  | Javascript | Typescript
+  
+- **Frameworks**:
+  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  | ANGULAR
 
-- **Bases de Datos**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-- **Control de versiones**:  
+- **Bases de Datos**:
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  
+- **Control de versiones**:
+  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
@@ -26,3 +32,4 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=B47342E6A4F1952C
 
 ## 🚀 Mis Proyectos
 
+Actualizando..
