@@ -31,6 +31,10 @@ Me enfoco principalmente en el uso de **Java** y tecnologías relacionadas para 
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
+- **Contenedores**:
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 ## Oracle certified professional java se 17
